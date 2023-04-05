@@ -4,7 +4,7 @@
 <br/>
 <p>Angkat Gambar send mari sahaja</p>
 <br/>
-<a href="https://github.com/LuckyOng777/octo-pancake-yang-suka-diemong/tree/main/spin-the-wheel-gh-pages">tekan untuk claim hadiah</a>
+<a href="https://LuckyOng777.github.io/octo-pancake-yang-suka-diemong/tree/main/spin-the-wheel-gh-pages">tekan untuk claim hadiah</a>
 <br/>
 <br/>
 <img src="https://github.com/codmitu/random-projects/blob/main/media-files/wheel.gif" alt="app image gif" /> 
