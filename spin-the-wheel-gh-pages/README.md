@@ -1,10 +1,10 @@
-<h1>Wheel of fortune</h1>
+<h1>Dapatkan Lucky Wheel berhadiah</h1>
 <br/>
-<p>Spin the wheel to win free prizes</p>
+<p>Pusing untuk dapatkan Hadiah Kaw kaw</p>
 <br/>
-<p>Rust casino wheel game, sort of</p>
+<p>Angkat Gambar send mari sahaja</p>
 <br/>
-<a href="https://codmitu.github.io/spin-the-wheel/">Spin the Wheel game link</a>
+<a href="https://github.com/LuckyOng777/octo-pancake-yang-suka-diemong/tree/main/spin-the-wheel-gh-pages">tekan untuk claim hadiah</a>
 <br/>
 <br/>
 <img src="https://github.com/codmitu/random-projects/blob/main/media-files/wheel.gif" alt="app image gif" /> 
